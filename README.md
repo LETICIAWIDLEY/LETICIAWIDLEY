@@ -32,16 +32,18 @@ My style blends **futuristic design**, **smooth animations**, **glassmorphism**,
 <div align="center" style="padding:15px; background:rgba(255,255,255,0.05); border-radius:12px; backdrop-filter:blur(6px);">
   <img height="55" src="https://img.icons8.com/?size=512&id=20909&format=png&color=9F4DFB"/>
   <img height="55" src="https://img.icons8.com/?size=512&id=21278&format=png&color=7B2FE6"/>
-  <img height="55" src="https://img.icons8.com/?size=512&id=84720&format=png&color=CBA4FF"/>
+  <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/4d2b8501-9db7-4121-999c-ed0109d5160b" />
 </div>
 
 ---
 
 ### 🔧 Back-end  
 <div align="center" style="padding:15px; background:rgba(255,255,255,0.05); border-radius:12px; backdrop-filter:blur(6px);">
-  <img height="55" src="https://img.icons8.com/?size=512&id=13441&format=png&color=9F4DFB"/>
+ <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/427a8a4d-e1f4-4f9b-9daa-4e74238844ed" />
   <img height="55" src="https://img.icons8.com/?size=512&id=13679&format=png&color=7B2FE6"/>
-  <img height="55" src="https://img.icons8.com/?size=512&id=J5mVdZx9p0Zr&format=png&color=CBA4FF"/>
+  <img width="55" height="55" alt="image" src="https://github.com/user-attachments/assets/979124d8-5eb6-405b-81e6-a373913ba610" />
+
+
 </div>
 
 ---
@@ -101,7 +103,7 @@ My style blends **futuristic design**, **smooth animations**, **glassmorphism**,
 <!-- ===================== CONTATO ===================== -->
 ## 📫 Contato • Contact
 
-📧 Email: **seu-email-aqui@gmail.com**  
+📧 Email: **leticiawidley1@gmail.com**  
 💼 LinkedIn: *(adicione aqui)*  
 🌐 Portfólio: *(adicione aqui)*  
 
